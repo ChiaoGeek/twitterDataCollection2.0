@@ -1,0 +1,33 @@
+---
+#basic configure
+
+# mongodb configure
+mongoDB:
+
+  address: 'localhost'
+  port: 27017
+
+
+# twitter API authentication
+authentication:
+
+  consumer_key: 'DF1bi9BZYImV9IKnuScwIslvT'
+  consumer_secret: '00hfG9eJzj2iMbKsA4YDSE7Ywk8BSr4ULstfBiTvboCsLLkm1Q'
+  access_token: '899645618527756288-REuwb7Tw7NDqtobj1OGJU9MOVNvKCfd'
+  access_token_secret: '8uWnSdHYllAF2YBQ3A6uKW1VT1KU46ken8azA4wPUZ0Fj'
+
+
+
+
+# hashtags configure
+hashtags:
+
+  woeid:
+    USA: 23424977
+    UK: 23424975
+    CANADA: 23424775
+    AUSTRALIA: 23424748
+    NEWZEALAND: 23424916
+    SINGAPORE: 23424948
+
+
