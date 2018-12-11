@@ -11,10 +11,10 @@ mongoDB:
 # twitter API authentication
 authentication:
 
-  consumer_key: 'DF1bi9BZYImV9IKnuScwIslvT'
-  consumer_secret: '00hfG9eJzj2iMbKsA4YDSE7Ywk8BSr4ULstfBiTvboCsLLkm1Q'
-  access_token: '899645618527756288-REuwb7Tw7NDqtobj1OGJU9MOVNvKCfd'
-  access_token_secret: '8uWnSdHYllAF2YBQ3A6uKW1VT1KU46ken8azA4wPUZ0Fj'
+  consumer_key: ''
+  consumer_secret: ''
+  access_token: ''
+  access_token_secret: ''
 
 
 
